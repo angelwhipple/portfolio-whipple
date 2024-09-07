@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Angel Whipple"
-  text: "6.1040 Fall 2024 Portfolio"
+  text: "6.1040 Fa24 Portfolio"
   tagline: "It's lit"
   actions:
     - theme: brand
@@ -22,4 +22,5 @@ features:
     details: All of your assignments will be posted on your portfolio.
   - title: About Me
     details: You'll implement a small bio about yourself on here!
+    link: /about
 ---

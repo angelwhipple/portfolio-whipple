@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Angel Whipple's Portfolio",
+  title: "Angel Whipple",
   description: "6.1040 Fall 2024",
   base: "/portfolio-whipple/",
   themeConfig: {
@@ -10,12 +10,17 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Blogs", link: "/blogs" },
+      { text: "About", link: "/about" },
     ],
 
     sidebar: [
       {
         text: "Blogs",
         link: "/blogs",
+      },
+      {
+        text: "About Angel",
+        link: "/about",
       },
     ],
 
