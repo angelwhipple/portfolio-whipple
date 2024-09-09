@@ -1,6 +1,6 @@
 ---
 layout: doc
-name: "Angel Amir Whipple"
+name: Angel Amir Whipple
 ---
 
 # About Me
@@ -9,7 +9,7 @@ name: "Angel Amir Whipple"
 
 ![Image](images/IMG_1065.jpg){:height='auto'}{:width='300'}
 
-Hi! I'm a full-stack developer that likes to pursue fun, meaningful projects.
+Hi! {{ name }} I'm a full-stack developer that likes to pursue fun, meaningful projects.
 
 Some fun facts about me:  
 :sunny: I'm from Los Angeles, California.  

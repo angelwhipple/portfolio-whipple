@@ -20,6 +20,7 @@ features:
     link: /blogs
   - title: Assignments
     details: All of your assignments will be posted on your portfolio.
+    link: /assignments
   - title: About Me
     details: Hi! I'm a full-stack developer that likes to pursue fun, meaningful projects.
     link: /about
