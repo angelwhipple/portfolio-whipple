@@ -6,8 +6,10 @@ layout: doc
 # Assignment 1: Social Media Needfinding
 
 ## Planning
-1. **Theme:** How would one design a social media app for traveling industry professionals (travel nurses, interns, college students, seasonal employees/contractors, full-timers, etc). Could their needs be better met than they currently are by platforms like Linkedin, Facebook, etc?
-2. **Who & why:** Graduate (master's/PhD) students, contractors, tech interns, full-time employees, travel nurses, consultants. Users of 0-1 vs. many social media platforms, internship vs. permanent position, tech vs. other industries, MIT vs. non-MIT
+1. **Theme:** How would one design a social media app for traveling industry professionals (travel nurses, interns, college students, seasonal employees/contractors, full-timers)? Could their needs be better met than they currently are by platforms like Linkedin, Facebook, etc?
+2. **Who & why:** 
+   - Anthony Smith is a full-time consultant & contractor at Apple. I want to interview Anthony because he finished college over a decade ago, and mentioned having an extensive work history at tech/social media companies in the Bay Area. He could likely shed some valuable insight on the life of a traveling professional in the earlier days of social media, when a lot of apps were likely lacking the features/functionality they have now.
+   - Naylah Canty is a full-time aerospace engineer at NASA. My motivation behind interviewing Naylah is the potential to gain a perspective of someone in aerospace/government, where social media may not play as large of a part (if any) in her day-to-day work. Furthermore, Naylah has had several internships in more rural areas like Virginia and Singapore. It would be interesting to see if social media is as impactful for professionals in these areas when compared to their urban counterparts.
 3. **Questions & conversation starters:**
    - Tell me about yourself. 
    - Tell me about your past work/internship experience. 
@@ -31,9 +33,9 @@ layout: doc
 ## Interview 1: Anthony Smith Jr.
 
 #### Summary
-Anthony Smith Jr. is a business strategy consultant, born and raised in North Carolina. As a longtime lover of sneakers and popular culture, he initially attended university to study fashion design. It was at this point that Anthony realized he was more interested in the marketing side of the fashion industry, as opposed to design. He’d go on to pursue a degree in marketing and business administration from UNC at Greensboro, which he completed in 2013. His love for fashion culture and desire to pursue marketing at a high level inspired him to take a leap of faith in 2015, moving across the country to the San Francisco Bay Area where he now resides. In his own words, Anthony left home with nothing but “two suitcases and a couple thousand dollars.” Luckily, he would strike gold and spend the next several years contracting at companies like Lenovo, Facebook, Instagram, Twitter, and now Apple, where we both worked this past summer.
+Anthony Smith Jr. is a business strategy consultant, born and raised in North Carolina. As a longtime lover of sneakers and popular culture, he initially attended university to study fashion design. He’d eventually shift gears and pursue a degree in marketing and business administration from UNC at Greensboro, which he completed in 2013. His love for fashion culture and desire to pursue marketing at a high level inspired him to take a leap of faith in 2015, moving across the country to the San Francisco Bay Area where he now resides. In his own words, Anthony left home with nothing but “two suitcases and a couple thousand dollars.” Luckily, he would strike gold and spend the next several years contracting at companies like Lenovo, Facebook, Instagram, Twitter, and now Apple, where we both worked this past summer.
 
-Anthony attributes a great deal of his success in finding opportunities to Linkedin, a platform with the ability to put him in direct contact with marketing industry professionals. However, he recalls his transition to the Bay Area lifestyle being particularly challenging. “I went from the south, where cost of living was very low, to moving over to California with two suitcases and not many connections, where cost of living is like 3x what I’m used to.” To make ends meet, he’d rent rooms on Airbnb, where the entire house was often being rented out (per room) to different random tenants. For Anthony, this was a fairly new and slightly uncomfortable environment, although having roommates seemed to be another norm of the Bay. In retrospect, he would have much preferred living arrangements with individuals sharing some common ground with himself, whether that be his hometown, university, work industry, or interest in fashion.
+Anthony attributes a great deal of his success in finding opportunities to Linkedin, a platform with the ability to put him in direct contact with marketing industry professionals. However, he recalls his transition to the Bay Area lifestyle being particularly challenging. “I went from the south, where cost of living was very low, to moving over to California with two suitcases and not many connections, where cost of living is like 3x what I’m used to.” To make ends meet, he’d rent rooms on Airbnb, where the entire house was often being rented out (per room) to different random tenants. For Anthony, this was a fairly new and slightly uncomfortable environment, although having roommates just seemed to be another norm of the Bay. In retrospect, he would have much preferred living arrangements with individuals sharing some common ground with himself, whether that be his hometown, university, work industry, or interest in fashion. Similarly, finding friends outside of work that shared his background/interests was relatively difficult until he forced himself out of his comfort zone to meet new people.
 
 #### Questions
 - **Q: Tell me about yourself.**  
@@ -60,3 +62,8 @@ Anthony attributes a great deal of his success in finding opportunities to Linke
 #### Summary
 
 #### Questions
+
+#### Video
+
+## Design Opportunities
+- 
