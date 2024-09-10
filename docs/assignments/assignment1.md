@@ -33,6 +33,8 @@ layout: doc
 ## Interview 1: Anthony Smith Jr.
 
 #### Summary
+> I left home with two suitcases and a couple thousand dollars. I had enough to buy an Airbnb for the next 10 days.
+> 
 Anthony Smith Jr. is a business strategy consultant, born and raised in North Carolina. As a longtime lover of sneakers and popular culture, he initially attended university to study fashion design. He’d eventually shift gears and pursue a degree in marketing and business administration from UNC at Greensboro, which he completed in 2013. His love for fashion culture and desire to pursue marketing at a high level inspired him to take a leap of faith in 2015, moving across the country to the San Francisco Bay Area where he now resides. In his own words, Anthony left home with nothing but “two suitcases and a couple thousand dollars.” Luckily, he would strike gold and spend the next several years contracting at companies like Lenovo, Facebook, Instagram, Twitter, and now Apple, where we both worked this past summer.
 
 Anthony attributes a great deal of his success in finding opportunities to Linkedin, a platform with the ability to put him in direct contact with marketing industry professionals. However, he recalls his transition to the Bay Area lifestyle being particularly challenging. “I went from the south, where cost of living was very low, to moving over to California with two suitcases and not many connections, where cost of living is like 3x what I’m used to.” To make ends meet, he’d rent rooms on Airbnb, where the entire house was often being rented out (per room) to different random tenants. For Anthony, this was a fairly new and slightly uncomfortable environment, although having roommates just seemed to be another norm of the Bay. In retrospect, he would have much preferred living arrangements with individuals sharing some common ground with himself, whether that be his hometown, university, work industry, or interest in fashion. Similarly, finding friends outside of work that shared his background/interests was relatively difficult until he forced himself out of his comfort zone to meet new people.
@@ -57,13 +59,41 @@ Anthony attributes a great deal of his success in finding opportunities to Linke
 [![Social media needfinding with Anthony Smith, pt 1](https://img.youtube.com/vi/22HbUtC7KZQ/0.jpg)](https://www.youtube.com/watch?v=22HbUtC7KZQ)
 
 
-## Interview 2: Alexa Smith
+## Interview 2: Naylah Canty
 
 #### Summary
+> The younger population in Hampton, like 18-25 year-olds, is largely missing from the area…I haven’t been able to find them as easily.
+>
+Naylah Canty, Atlanta native and MIT alum, is very early in her career as an aerospace engineer. Early on, Naylah knew that she not only wanted to go into the aerospace industry, but that she wanted to stay true to her values and make positive contributions to the world. She’d ultimately pursue two bachelor’s degrees: one in aerospace engineering, and another in urban studies & planning. She has an extensive research background and internship experiences with MIT AeroAstro, MISTI, and NASA, all of which culminated in her starting a full-time position at NASA in November 2023. Naylah has done her fair share of work travel, visiting places like Washington DC, Virginia, and Singapore. She recalls Singapore being one of her favorite destinations, as she appreciates cities that celebrate diversity and make her feel welcomed as an African American woman.
+
+Whenever Naylah travels to a new city, she uses Bumble BFF to make new friends that share her interests. However, even with the help of this app, Naylah faced some difficulty finding her people when she first started her current role in Hampton, Virginia, a quaint city with a ton of history and military influence. “The younger population, like 18-25 year-olds, is largely missing from the area…I haven’t been able to find them as easily.” Despite absolutely loving her first international trip to Singapore, a situation with a shady landlord did put a blight on the experience. As a first time renter, Naylah was unfortunately scammed out of her security deposit after signing a lease with an Airbnb host off the platform. “That was $900 USD just gone, I’ll never see it again…What’s crazy is he’s been doing the same thing to other tenants, and we can’t retaliate, ” Naylah lamented during our conversation. In hindsight, she wishes she took advantage of the safeguards already in place on platforms like Airbnb that prevent these scams from happening; her decision to rent directly from a landlord left her without anyone to escalate the situation to.
 
 #### Questions
+- **Q: Tell me about yourself.**  
+**A:** Naylah is early in her career, from Atlanta Georgia. Pursued bachelor’s in aerospace engineering/urban studies & planning straight out of high school. Knew early on that her work would contribute to good. Worked at a lab, internship at NASA, funneled her into her current position. Got to visit NASA Langley during internship, made close connections to HQ. Been at NASA since November last year. Did a MISTI internship in Singapore and absolutely loved it there. City is planned intricately in Naylah’s opinion, didn’t need to worry about safety/diversity as a black woman as much as she’d anticipated.  
+- **Q: Tell me more about your experience in Singapore.**  
+**A:** Was provided a monthly stipend for rent/groceries, fully funded by internship. MIT fronted cost of flights ($2000). Went on Airbnb and got scammed, recounts it as a horrible experience. Singapore has time limits on Airbnb rentals (minimum of 90 days), since they have problems with over tourism shooting prices up for residents of Singapore. Lived in a hostel for the first 2 weeks, then Airbnb for the last 90 days. Signed a contract with a landlord outside of Airbnb. Everything was as presented, lots of insects. Towards end of lease, the landlord had to return the security deposit and didn’t, couldn’t retaliate as an international.
+- **Q: Do you wish there were better safeguards in place to prevent your rental scam situation?**  
+**A:** Naylah does think there were safeguards in place on Airbnb, but she chose not to utilize them by signing a lease off Airbnb. Could’ve informed MISTI advisor, gotten tips. Made her appreciate the safeguards in place by these apps, feel like she was more susceptible as a first-time renter. Make sure you see the landlord! Pay attention to red flags.  
+- **Q: Tell me more about your NASA internship in Washington.**  
+**A:** Worked in the A-suite with chief technologist (headed office of technology, policy, and strategy) and chief operations officer. Worked with people setting high-level strategy, coordinating activity across locations. Was achieved through an MIT program for course 17. Connected with someone on OTPS, not a formal application process. Worked on visualizing the moon to Mars trade space.  
+- **Q: Did you work with social media within your role?**  
+**A:** Did not, but knew an intern whose role was taking fun, educational videos. Knew the chief media officer of NASA Langley who handled more official, front-facing communications.  
+- **Q: What was your impression of Washington DC?**  
+**A:** Worked in DC 1 year before Singapore. “City living” experience, similar to Cambridge, lived super close to the White House. Appreciated the diversity, heavy black population and history, skate culture.  
+- **Q: How did you mesh yourself into the Black culture in DC?**  
+**A:** Used Bumble, introduced her to her new friend group. Uses Bumble everytime she goes to a new city. Bumble supports dating and finding friends separately.  
+- **Q: Have you ever had a roommate?**  
+**A:** No, never, only child. Never had a roommate, lived in MacGregor House, Site 4, New House, and Tang Hall during her time at MIT.  
+- **Q: Main differences between Hampton, VA and your hometown of Atlanta, GA?**  
+**A:** Hampton is not quite a city, not a big urban hub, has lots of history. Younger population of 18-25 is largely missing in the area. Hasn’t been able to find her people as easily. Lots of cultural differences, Atlanta is more cutting edge technically, culturally, etc. Heavy military influence in Hampton, military is a huge part of the culture. Prefers Atlanta but not a huge astronautics industry there.  
+- **Q: Does Bumble help you mitigate that age gap in Hampton?**  
+**A:** Somewhat. Transitioned group chats from Bumble to Instagram. There’s people at work, but not many people/black women her age. Found friends at the roller rink. Appreciates the family vibe at the roller rink, meeting regulars.  
+- **Q: (Verbally) Walk me through how you'd use Bumble.**  
+**A:** About a week into being in a new place, after getting a feel for the new location, she’ll use Bumble. She’ll update her Bumble BFF profile (Bumble allows you to have separate dating/BFF profiles), pictures/bio. Can then swipe right/left, she typically starts the conversation first. Usually ends in grabbing dinner as she thinks food is a good bonding activity. Will optionally put her job in her bio as a conversation starter, somewhat iffy about it. Work is a very small part of her that she likes to keep separate. On the flip, she has a friend whose work and personal life are super intertwined.
 
 #### Video
+[![Social media needfinding with Naylah Canty](https://img.youtube.com/vi/3dEQZOp-8V0/0.jpg)](https://www.youtube.com/watch?v=3dEQZOp-8V0)
 
 ## Design Opportunities
 - 
