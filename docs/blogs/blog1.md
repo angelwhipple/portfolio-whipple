@@ -1,5 +1,6 @@
 ---
 title: "Looking outside the domain: Tap to do X"
+lecture: Lecture 3
 layout: doc
 ---
 
@@ -9,7 +10,7 @@ Wednesday’s lecture on divergent design really opened my eyes to the idea of d
 
 ![Apple Pay image](../images/blog_photos/img_1.png)
 
-As developers, we borrow and repurpose underlying concepts from one another all the time, and when implemented well enough they can easily pass as original. Take for instance, the popular Apple/Google Wallet feature where you tap your mobile against the card reader to make a payment. We’ve seen this same “tap to do X” functionality repurposed many times to speed up flows, even outside of payment processing. If you’ve ever done laundry in an MIT dorm, you likely know that you can tap your phone against a washer/dryer to immediately start your load in CSC GO. Or tapping your iPhone against another person’s iPhone enables NameDrop, allowing you to instantly share your contact cards with one another.
+As developers, we borrow and repurpose underlying concepts from one another all the time, and when implemented well enough they can easily pass as original. Take for instance, the popular Apple/Google Wallet feature where you tap your mobile device against the card reader to make a payment. We’ve seen this same “tap to do X” functionality repurposed many times to speed up workflows, even outside of payment processing. If you’ve ever done laundry in an MIT dorm, you likely know that you can tap your phone against a washer/dryer to immediately start your load in CSC GO. Or tapping your iPhone against another person’s iPhone enables NameDrop, allowing you to instantly share your contact cards with one another.
 
 ![ image](../images/blog_photos/img.png)
 
