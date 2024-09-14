@@ -7,7 +7,7 @@ name: Angel Amir Whipple
 
 ## Meet Angel
 
-![Image](images/IMG_1065.jpg){:height='auto'}{:width='300'}
+![Image](images/IMG_1065.JPG){:height='auto'}{:width='300'}
 
 Hi! {{ name }} I'm a full-stack developer that likes to pursue fun, meaningful projects.
 
