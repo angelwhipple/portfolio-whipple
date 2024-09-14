@@ -1,7 +1,13 @@
 import { defineConfig } from "vitepress";
+import footnote from 'markdown-it-footnote';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  markdown: {
+    config: (md) => {
+      md.use(footnote);
+    }
+  },
   title: "Angel Whipple",
   description: "6.1040 Fall 2024",
   base: "/portfolio-whipple/",

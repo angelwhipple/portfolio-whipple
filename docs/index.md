@@ -16,10 +16,10 @@ hero:
 
 features:
   - title: Blogs
-    details: Some cool blogs you'll write this semester!
+    details: Check out my thoughts and reflections on lecture topics.
     link: /blogs
   - title: Assignments
-    details: All of your assignments will be posted on your portfolio.
+    details: Assignments I've worked on this semester.
     link: /assignments
   - title: About Me
     details: Hi! I'm a full-stack developer that likes to pursue fun, meaningful projects.

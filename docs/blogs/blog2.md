@@ -16,6 +16,8 @@ Take the Mortal Kombat and Grand Theft Auto video game franchises, for example. 
 
 ![ESRB Rated M](../images/blog_photos/img_3.png)
 
-The Entertainment Software Ratings Board (ESRB), established in 1994, rated the game as M for mature audiences (17+), effectively labeling the game’s content as sexual and violent in nature. However, the rating alone doesn’t prevent sale of the game to minors. This is something left up to individual retailers like GameStop or Best Buy to enforce (or not). In 2005, former California governor Arnold Schwarzenagger actually signed a bill that banned the sale of violent video games to minors, which was later deemed unconstitutional and overruled in 2011 by the Supreme Court.
+The Entertainment Software Ratings Board (ESRB), established in 1994, rated the game as M for mature audiences (17+), effectively labeling the game’s content as sexual and violent in nature. However, the rating alone doesn’t prevent sale of the game to minors. This is something left up to individual retailers like GameStop or Best Buy to enforce (or not). In 2005, former California governor Arnold Schwarzenagger actually signed a bill that banned the sale of violent video games to minors, which was later deemed unconstitutional[^1] and overruled in 2011 by the Supreme Court.
 
 So what do we do in these unique cases, where even band-aid solutions like the ESRB rating system don’t fully address the problem? Where developers are rigid in their design because they’re knowingly contributing to harmful byproducts? How can we, as developers, be mindful even when we know the product we’re building is “bad?”
+
+[^1]: See [Regulation of violent video games sales to minors violates First Amendment](https://rcfp.org/journals/regulation-violent-video-games/)
