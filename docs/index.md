@@ -19,7 +19,7 @@ features:
     details: Check out my thoughts and reflections on lecture topics.
     link: /blogs
   - title: Assignments
-    details: Assignments I've worked on this semester.
+    details: Explore projects I've worked on this semester.
     link: /assignments
   - title: About Me
     details: Hi! I'm a full-stack developer that likes to pursue fun, meaningful projects.
