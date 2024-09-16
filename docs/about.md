@@ -7,7 +7,7 @@ name: Angel Amir Whipple
 
 ## Meet Angel
 
-![Image](images/about/IMG_1065.jpg){:height='auto'}{:width='300'}
+![Image](./images/about/IMG_1065.jpg){:height='auto'}{:width='300'}
 
 Hi! {{ name }} I'm a full-stack developer that likes to pursue fun, meaningful projects.
 
@@ -21,7 +21,7 @@ Some fun facts about me:
 - Worked on full-stack projects at Amazon, AWS, and Apple.
 
 ## Education
-![Image](images/about/awhipp-long.jpg){:width='50%'}
+![Image](./images/about/awhipp-long.jpg){:width='50%'}
 :mortar_board: Graduated Valedictorian, Hollywood High School Class of 2021  
 :beaver: MIT Class of 2025  
 :books: Computer science & engineering major with a minor in comparative media studies
