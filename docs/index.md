@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Angel Whipple"
-  text: "6.1040 Fa24 Portfolio"
-  tagline: "It's lit"
+  text: "6.1040 Fall 24"
+  tagline: "A web design portfolio"
   actions:
     - theme: brand
       text: Template Repository
