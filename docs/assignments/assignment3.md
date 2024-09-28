@@ -3,7 +3,7 @@ title: "Convergent Design"
 layout: doc
 ---
 
-# Assignment 3: Convergent Design
+# A3: Convergent Design
 
 ## Pitch
 A recurrent issue for many working professionals is business travel. Don't waste anymore time rebuilding your network from scratch everytime you move to a new city. Tap into local communities well ahead of time with Crash!

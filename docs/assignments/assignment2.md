@@ -3,7 +3,7 @@ title: "Divergent Design"
 layout: doc
 ---
 
-# Assignment 2: Divergent Design
+# A2: Divergent Design
 
 ## Goals
 - **App name:** Crash

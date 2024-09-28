@@ -3,7 +3,7 @@ title: "Social Media Needfinding"
 layout: doc
 ---
 
-# Assignment 1: Social Media Needfinding
+# A1: Social Media Needfinding
 
 ## Planning
 1. **Theme:** How would one design a social media app for traveling industry professionals (travel nurses, interns, college students, seasonal employees/contractors, full-timers)? Could their needs be better met than they currently are by platforms like Linkedin, Facebook, etc?
