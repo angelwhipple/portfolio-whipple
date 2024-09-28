@@ -315,27 +315,6 @@ sync endEvent (event: Event)
 [Figma](https://www.figma.com/proto/hhQz5a7z32cwxzDbiMzv2b/Crash?node-id=14-212&node-type=symbol&t=lPX2Hh70oYwOgPfY-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=14%3A212)
 
 ## Design Tradeoffs
-
-#### Iterative design notes
-- Take note of any ethical, social, and design concerns encountered
-- Note the different design options considered, choices made, & why
-1. Public or private communities
-   - Could leave all communities freely available to join, make them all private/request-only, or leave it up to the user.
-   - Outcome: A 'privacies' state variable allowing community owners to toggle between public and request-only mode.
-2. Generalized communities or specified groups
-   - Unify: Roommate groups could *appear* to be a different entity from networks to users, but underneath the hood they're just networks specified with a 'ROOMMATE' type, while regular networks are tagged as 'WORK' or 'SCHOOL'. 
-   - Specialize: Grouping is its own concept. Groups are request-only by design, without the need for a state variable to indicate privacy level.
-   - Outcome: Unify networking and grouping as a more general, less-specified Grouping concept.
-3. Allow users to open >1 group?
-4. Disclosing event locations
-   - Option A (Loosen): Released to user after registering attendance
-   - Option B (Tighten): Released to 24hr prior to event start via synchronization between Eventing, Locating, and a Timing concept?
-5. Open to all or request-only events
-6. Timed resources
-   - Factor & specialize
-   - Unify & generalize
-
-#### Design decisions
 - **Generalized or specific groups**
    - Unify: Roommate groups and work communities could appear as distinct entities in the UI, while actually being different instances of the same Group concept
    - Specialize: Implement roommate grouping and work communities as their own separate concepts. Roommate groups can be request-only by design, without maintaining any privacy level in its state.
