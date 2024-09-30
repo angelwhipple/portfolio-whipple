@@ -1,11 +1,13 @@
 import { defineConfig } from "vitepress";
 import footnote from 'markdown-it-footnote';
+import tasklist from 'markdown-it-task-lists';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   markdown: {
     config: (md) => {
       md.use(footnote);
+      md.use(tasklist)
     }
   },
   title: "Angel Whipple",

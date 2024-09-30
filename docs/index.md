@@ -7,12 +7,12 @@ hero:
   text: "6.1040 Fall 24"
   tagline: "A web design portfolio"
   actions:
-    - theme: brand
-      text: Template Repository
-      link: "https://github.com/61040-fa24/vitepress-template"
-    - theme: alt
-      text: Example Site
-      link: "https://61040-fa24.github.io/portfolio-dhua/"
+#    - theme: brand
+#      text: Template Repository
+#      link: "https://github.com/61040-fa24/vitepress-template"
+#    - theme: alt
+#      text: Example Site
+#      link: "https://61040-fa24.github.io/portfolio-dhua/"
 
 features:
   - title: Blogs
