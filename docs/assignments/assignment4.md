@@ -14,7 +14,6 @@ layout: doc
 - [Eventing](https://github.com/angelwhipple/crash-backend/blob/main/server/concepts/eventing.ts)
 - [Requesting](https://github.com/angelwhipple/crash-backend/blob/main/server/concepts/requesting.ts)
 - [Locating](https://github.com/angelwhipple/crash-backend/blob/main/server/concepts/locating.ts)
-- [Expiring](https://github.com/angelwhipple/crash-backend/blob/main/server/concepts/expiring.ts)
 - [Authenticating](https://github.com/angelwhipple/crash-backend/blob/main/server/concepts/authenticating.ts)
 - [Sessioning](https://github.com/angelwhipple/crash-backend/blob/main/server/concepts/sessioning.ts)
 
