@@ -9,11 +9,6 @@ layout: doc
 - [Vercel](https://crash-frontend-seven.vercel.app/)
 - [Repo](https://github.com/angelwhipple/crash-frontend)
 
-## Deliverables
-- [x] Deployment to Vercel
-- [ ] Full set of working components for ONE concept (unstyled)
-- [x] Heuristic evaluation & writeup
-
 ## Heuristic evaluation
 - Design decisions supporting/violating heuristics? Suggestions? Any tradeoffs?
 
@@ -35,6 +30,3 @@ layout: doc
    - The map page UI provides users an **information scent** by indicating which community an event or roommate group is being hosted under. This gives users a clue to events and groups only being accessible through a verified work/school community.
 
 ## Visual design study
-- Collage inspiration from diverse visual media
-- Produce **2** slides focusing on typography and color, respectively
-- Annotate with design choices to explore
