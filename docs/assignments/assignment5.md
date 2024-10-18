@@ -10,8 +10,6 @@ layout: doc
 - [Repo](https://github.com/angelwhipple/crash-frontend)
 
 ## Heuristic evaluation
-- Design decisions supporting/violating heuristics? Suggestions? Any tradeoffs?
-
 1. **Usability**
    - Core features like work communities and the map are pretty **discoverable**. You are directed to join a community right after logging in, and pages like the map or the community homepage are just a click away by their icon in the navbar.
    - The ability to create a roommate group or a new community beyond the start screen could be more **discoverable**. In the wireframe it is easy to find/join other communities & groups, but it is somewhat unclear where to create them.
