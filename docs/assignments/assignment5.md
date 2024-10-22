@@ -28,3 +28,4 @@ layout: doc
    - The map page UI provides users an **information scent** by indicating which community an event or roommate group is being hosted under. This gives users a clue to events and groups only being accessible through a verified work/school community.
 
 ## Visual design study
+[Link to slides](https://drive.google.com/file/d/1N1NjrlXQ6NwzZj4l-XTY0SFveG2o6bmU/view?usp=sharing)
