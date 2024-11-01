@@ -6,6 +6,8 @@ layout: doc
 # A6: User Testing & Analysis
 
 ## Prepopulated data
+![Map view](../images/assignments/crash1.png)
+![List view](../images/assignments/crash2.png)
 
 ## Task list
 **Prompt:** You are a college student that just got a summer internship at Meta in California. Living alone is too expensive, so you want to use Crash to discover other verified work travelers to live with.
