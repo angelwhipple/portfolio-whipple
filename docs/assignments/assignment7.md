@@ -70,9 +70,11 @@ To prove Digital-ROSCA’s efficacy in promoting financial equality and loan acc
 **Experts**
 - Dave Donaldson, Professor of Economics
 - Benjamin Olken, Professor of Microeconomics
+- Ashish Kumar Sedai, Assistant Professor of Economics at UT Arlington
 
 **Stakeholders**
-- Wilhem Hector, MIT 2025 & founder of the Hector Foundation
+- Wilhem Hector, Haitian MIT 2025 & founder of the Hector Foundation
+- Sarla Pareek, Housewife from Udaipur, India
 
 ## Interview plans
 **For stakeholders**
