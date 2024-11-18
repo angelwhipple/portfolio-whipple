@@ -1,5 +1,5 @@
 ---
-title: "Response to Ubisoft A/B Testing"
+title: "Response to PlantIt Project Pitch"
 lecture: Lecture 16
 layout: doc
 ---
