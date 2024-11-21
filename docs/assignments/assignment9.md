@@ -192,6 +192,11 @@ sync sendPaymentReminder(user: User, group: Group, msg: String, action: ActionTy
     Grouping.assertUserIsOwner(group, user)
     Grouping.getMembers(group, members)
     Notifying.createNotification(user, members, msg, action)
+    
+sync sendMessage(sender: User, group: Group, content: String)
+    when Grouping.getMembers(group, members)
+    for recipient in members:
+        Messaging.send(sender, recipient, content, message)
 ```
 
 ## Visual Design Study
