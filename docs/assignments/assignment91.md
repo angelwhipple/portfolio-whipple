@@ -20,5 +20,5 @@ layout: doc
    - [Date model & actions](https://github.com/angelwhipple/oscar/blob/main/server/concepts/scheduling.ts)
 
 ## Syncs
-- [routes.ts]()
+- [routes.ts](https://github.com/angelwhipple/oscar/blob/main/server/routes.ts)
 
