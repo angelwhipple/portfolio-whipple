@@ -11,19 +11,28 @@ layout: doc
 
 ## Concepts
 1. Grouping
-   - [Data model & actions]()
-   - [Components]()
+
+[//]: # (   - [Data model & actions]&#40;&#41;)
+
+[//]: # (   - [Components]&#40;&#41;)
 2. Accounting
-   - [Data model & actions]()
-   - [Components]()
+
+[//]: # (   - [Data model & actions]&#40;&#41;)
+
+[//]: # (   - [Components]&#40;&#41;)
 3. Messaging
-   - [Data model & actions]()
-   - [Components]()
+
+[//]: # (   - [Data model & actions]&#40;&#41;)
+
+[//]: # (   - [Components]&#40;&#41;)
 4. Notifying
-   - [Data model & actions]()
-   - [Components]()
+
+[//]: # (   - [Data model & actions]&#40;&#41;)
+
+[//]: # (   - [Components]&#40;&#41;)
 5. Permissioning
-   - [Data model & actions]()
+
+[//]: # (   - [Data model & actions]&#40;&#41;)
 
 ## Syncs
 - [routes.ts](https://github.com/angelwhipple/oscar/blob/main/server/routes.ts)
