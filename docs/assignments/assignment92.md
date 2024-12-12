@@ -7,7 +7,7 @@ layout: doc
 
 ## Deployment
 - [Vercel](https://oscar-kappa.vercel.app/)
-- [Github repository](https://github.com/angelwhipple/oscar)
+- [GitHub repository](https://github.com/angelwhipple/oscar)
 
 ## Concepts
 1. Grouping
